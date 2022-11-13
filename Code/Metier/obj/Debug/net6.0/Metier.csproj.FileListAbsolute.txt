@@ -1,0 +1,12 @@
+C:\Users\shuna\OneDrive\Documents\Project Silverfox\Game\Silverfox\Metier\bin\Debug\net6.0\Metier.deps.json
+C:\Users\shuna\OneDrive\Documents\Project Silverfox\Game\Silverfox\Metier\bin\Debug\net6.0\Metier.dll
+C:\Users\shuna\OneDrive\Documents\Project Silverfox\Game\Silverfox\Metier\bin\Debug\net6.0\Metier.pdb
+C:\Users\shuna\OneDrive\Documents\Project Silverfox\Game\Silverfox\Metier\obj\Debug\net6.0\Metier.csproj.AssemblyReference.cache
+C:\Users\shuna\OneDrive\Documents\Project Silverfox\Game\Silverfox\Metier\obj\Debug\net6.0\Metier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuna\OneDrive\Documents\Project Silverfox\Game\Silverfox\Metier\obj\Debug\net6.0\Metier.AssemblyInfoInputs.cache
+C:\Users\shuna\OneDrive\Documents\Project Silverfox\Game\Silverfox\Metier\obj\Debug\net6.0\Metier.AssemblyInfo.cs
+C:\Users\shuna\OneDrive\Documents\Project Silverfox\Game\Silverfox\Metier\obj\Debug\net6.0\Metier.csproj.CoreCompileInputs.cache
+C:\Users\shuna\OneDrive\Documents\Project Silverfox\Game\Silverfox\Metier\obj\Debug\net6.0\Metier.dll
+C:\Users\shuna\OneDrive\Documents\Project Silverfox\Game\Silverfox\Metier\obj\Debug\net6.0\refint\Metier.dll
+C:\Users\shuna\OneDrive\Documents\Project Silverfox\Game\Silverfox\Metier\obj\Debug\net6.0\Metier.pdb
+C:\Users\shuna\OneDrive\Documents\Project Silverfox\Game\Silverfox\Metier\obj\Debug\net6.0\ref\Metier.dll
